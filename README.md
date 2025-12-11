@@ -1,1 +1,30 @@
-## ello I am Sqidgeon ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/user-attachments/assets/3cf2509d-9f7d-440b-9c42-b09fc17e7a41)
+<h1 align="center">G'day, I'm Sqidgeon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<p align="center">
+  <em>.</em>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/1010775387099365396">
+    <img src="https://lanyard.cnrad.dev/api/1010775387099365396?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
+  </a>
+</p>
+
+
+---
+
+### 🚀 My Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,vscode,python,lua,nodejs&perline=5" />
+
+  </a>
+</p>
+
+
+<p align="center">📚 <strong>Currently Improving:</strong> <code>TypeScript</code> and <code>JavaScript</code></p>
+
+
+<p align="center">
+  
+</p>
