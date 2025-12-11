@@ -22,7 +22,7 @@
 </p>
 
 
-<p align="center">📚 <strong>Currently Improving:</strong> <code>TypeScript</code> and <code>JavaScript</code></p>
+<p align="center">What OS am I running?<code>https://skillicons.dev/icons?i=arch,windows</code> and <code>JavaScript</code></p>
 
 
 <p align="center">
