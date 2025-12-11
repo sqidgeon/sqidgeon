@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://lanyard.cnrad.dev/api/1010775387099365396?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1398228888139600006?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
   </a>
 </p>
 
