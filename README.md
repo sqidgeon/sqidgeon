@@ -22,7 +22,7 @@
 </p>
 
 
-<p align="center">What OS am I running?<code><img width="10" height="10" src="https://skillicons.dev/icons?i=arch&perline=5" /></code> and <code>JavaScript</code></p>
+<p align="center">What OS am I running?<code><img width="20" height="20" src="https://skillicons.dev/icons?i=arch&perline=5" /></code> and <code>JavaScript</code></p>
 
 
 <p align="center">
