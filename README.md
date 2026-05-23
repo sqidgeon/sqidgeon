@@ -17,7 +17,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px; margin: 20px auto; text-align: center;">
   <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/acore.png" alt="Acore Hosting" style="max-width: 100%; height: auto;" />
+    <img src="https://fr.sqidgeon.uk/images/location/acore.png" alt="Acore Hosting" style="max-width: 10%; height: auto;" />
   </a>
   <a href="">
     <img src="https://fr.sqidgeon.uk/images/location/gollicraft.png" alt="GolliCRAFT" style="max-width: 100%; height: auto;" />
