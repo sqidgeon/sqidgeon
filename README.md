@@ -5,7 +5,13 @@
 
 <p align="center">
   <a href="">
-    <img src="https://lanyard.cnrad.dev/api/1398228888139600006?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence - needs fixing" />
+    <img src="http://acorezero.qzz.io:20920/user/1398228888139600006/image?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence - needs fixing" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="http://acorezero.qzz.io:20920/user/1476678261613396192/image?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence - needs fixing" />
   </a>
 </p>
 
