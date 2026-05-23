@@ -14,3 +14,21 @@
     <img src="http://acorezero.qzz.io:20920/user/1476678261613396192/image?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence archivekevin" />
   </a>
 </p>
+
+<p align="center">
+  <a href="">
+    <img src="https://fr.sqidgeon.uk/images/location/acore.png" alt="Acore Hosting" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://fr.sqidgeon.uk/images/location/gollicraft.png" alt="GolliCRAFT" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://fr.sqidgeon.uk/images/location/pouncenet.png" alt="Pouncenet" />
+  </a>
+</p>
