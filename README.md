@@ -15,17 +15,29 @@
   </a>
 </p>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px; margin: 20px auto; text-align: center;">
-  <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/acore.png" alt="Acore Hosting" style="max-width: 10%; height: auto;" />
-  </a>
-  <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/gollicraft.png" alt="GolliCRAFT" style="max-width: 100%; height: auto;" />
-  </a>
-  <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/pouncenet.png" alt="Pouncenet" style="max-width: 100%; height: auto;" />
-  </a>
-  <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/sqidgeonstudios.png" alt="SqidgeonStudios" style="max-width: 100%; height: auto;" />
-  </a>
-</div>
+<table align="center" cellspacing="20" style="border-collapse: collapse;">
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="https://fr.sqidgeon.uk/images/location/acore.png" alt="Acore Hosting" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://fr.sqidgeon.uk/images/location/gollicraft.png" alt="GolliCRAFT" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="https://fr.sqidgeon.uk/images/location/pouncenet.png" alt="Pouncenet" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://fr.sqidgeon.uk/images/location/sqidgeonstudios.png" alt="SqidgeonStudios" />
+      </a>
+    </td>
+  </tr>
+</table>
