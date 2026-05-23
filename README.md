@@ -32,3 +32,9 @@
     <img src="https://fr.sqidgeon.uk/images/location/pouncenet.png" alt="Pouncenet" />
   </a>
 </p>
+
+<p align="center">
+  <a href="">
+    <img src="https://fr.sqidgeon.uk/images/location/sqidgeonstudios.png" alt="SqidgeonStudios" />
+  </a>
+</p>
