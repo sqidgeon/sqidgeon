@@ -15,16 +15,10 @@
   </a>
 </p>
 
-<!-- Acore Hosting logo left, title right -->
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <div style="text-align: left;">
-      <img src="https://cdn.acorehosting.com/logo.png" alt="Acore Hosting Logo" style="max-height: 70px;">
-    </div>
-    <div style="text-align: right;">
-      <strong style="font-size: 1.2em;">Senior Developer at AcoreHosting</strong>
-    </div>
-  </div>
+<!-- Acore Hosting logo on the left, text also on the left -->
+<div align="left" style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://cdn.acorehosting.com/logo.png" alt="Acore Hosting Logo" style="max-height: 60px;">
+  <strong style="font-size: 1.2em;">Senior Developer at AcoreHosting</strong>
 </div>
 
 <br>
