@@ -14,18 +14,3 @@
     <img src="http://acorezero.qzz.io:20920/user/1476678261613396192/image?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence archivekevin" />
   </a>
 </p>
-
-<!-- Acore Hosting logo on the left, text also on the left -->
-<div align="left" style="display: flex; align-items: center; gap: 15px;">
-  <img src="https://cdn.acorehosting.com/logo.png" alt="Acore Hosting Logo" style="max-height: 60px;">
-  <strong style="font-size: 1.2em;">Senior Developer at AcoreHosting</strong>
-</div>
-
-<br>
-
-<!-- Discord invite link -->
-<p align="center">
-  💬 <strong>Join my Discord:</strong><br>
-  <a href="https://discord.gg/invitelink" target="_blank">discord.gg/invitelink</a>
-  <!-- Replace with your actual invite link -->
-</p>
