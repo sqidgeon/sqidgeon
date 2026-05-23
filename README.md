@@ -15,26 +15,17 @@
   </a>
 </p>
 
-<p align="center">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px; margin: 20px auto; text-align: center;">
   <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/acore.png" alt="Acore Hosting" />
+    <img src="https://fr.sqidgeon.uk/images/location/acore.png" alt="Acore Hosting" style="max-width: 100%; height: auto;" />
   </a>
-</p>
-
-<p align="center">
   <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/gollicraft.png" alt="GolliCRAFT" />
+    <img src="https://fr.sqidgeon.uk/images/location/gollicraft.png" alt="GolliCRAFT" style="max-width: 100%; height: auto;" />
   </a>
-</p>
-
-<p align="center">
   <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/pouncenet.png" alt="Pouncenet" />
+    <img src="https://fr.sqidgeon.uk/images/location/pouncenet.png" alt="Pouncenet" style="max-width: 100%; height: auto;" />
   </a>
-</p>
-
-<p align="center">
   <a href="">
-    <img src="https://fr.sqidgeon.uk/images/location/sqidgeonstudios.png" alt="SqidgeonStudios" />
+    <img src="https://fr.sqidgeon.uk/images/location/sqidgeonstudios.png" alt="SqidgeonStudios" style="max-width: 100%; height: auto;" />
   </a>
-</p>
+</div>
