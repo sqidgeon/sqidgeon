@@ -31,11 +31,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pouncenet.pages.dev/">
-        <img src="https://fr.sqidgeon.uk/images/location/pouncenet.png" alt="Pouncenet" />
-      </a>
     </td>
     <td align="center">
       <a href="https://discord.gg/J2RRQcjHsM">
